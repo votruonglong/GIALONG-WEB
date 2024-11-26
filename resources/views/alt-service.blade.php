@@ -7,48 +7,31 @@
                     src="assets/img/alt-services.jpg" alt=""></div>
 
             <div class="col-lg-5 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-                <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-                <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima
-                    temporibus
-                    laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+                <h3>Tận tâm trong từng dự án, chuyên nghiệp trong từng bước đi</h3>
+                <p>Chúng tôi tự hào mang đến những công trình chất lượng, đáp ứng kỳ vọng cao nhất của khách hàng.</p>
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
                     <i class="bi bi-easel flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-                            cupiditate
-                            non provident</p>
+                        <h4><a href="" class="stretched-link">Cam kết chất lượng</a></h4>
+                        <p>Mỗi dự án đều được giám sát chặt chẽ, đảm bảo tuân thủ các tiêu chuẩn xây dựng hàng đầu.</p>
                     </div>
                 </div><!-- End Icon Box -->
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
                     <i class="bi bi-patch-check flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-                            voluptatum
-                            deleniti atque</p>
+                        <h4><a href="" class="stretched-link">Đội ngũ chuyên nghiệp</a></h4>
+                        <p>Đội ngũ kỹ sư và công nhân có trình độ cao, luôn tận tâm và sáng tạo trong công việc.</p>
                     </div>
                 </div><!-- End Icon Box -->
 
                 <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="500">
                     <i class="bi bi-brightness-high flex-shrink-0"></i>
                     <div>
-                        <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                        <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt
-                            minus
-                            aut eligendi omnis</p>
-                    </div>
-                </div><!-- End Icon Box -->
-
-                <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="600">
-                    <i class="bi bi-brightness-high flex-shrink-0"></i>
-                    <div>
-                        <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                        <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur
-                            odit amet.
-                            Et eligendi</p>
+                        <h4><a href="" class="stretched-link">Bền vững và thân thiện môi trường</a></h4>
+                        <p>Chúng tôi chú trọng đến việc xây dựng các công trình không chỉ bền vững mà còn hài hòa với
+                            thiên nhiên.</p>
                     </div>
                 </div><!-- End Icon Box -->
 

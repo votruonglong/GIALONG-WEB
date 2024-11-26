@@ -5,11 +5,6 @@
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-6 text-center">
                     <h2>Chào mừng đến với Gia Long Construction & Architecture</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et
-                        dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                        aliquip
-                        ex ea commodo consequat.</p>
                     <a href="#get-started" class="btn-get-started">Khám phá</a>
                 </div>
             </div>

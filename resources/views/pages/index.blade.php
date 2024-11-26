@@ -7,7 +7,6 @@
     @include('construction')
     @include('services')
     @include('alt-service')
-    @include('feature')
     @include('project')
     @include('testimonials')
 @endsection

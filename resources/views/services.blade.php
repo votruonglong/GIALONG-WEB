@@ -2,8 +2,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Dịch vụ</h2>
+        <p>Mang đến giải pháp toàn diện cho mọi nhu cầu xây dựng và kiến trúc.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -15,11 +15,11 @@
                     <div class="icon">
                         <i class="fa-solid fa-mountain-city"></i>
                     </div>
-                    <h3>Nesciunt Mete</h3>
-                    <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure
-                        perferendis
-                        tempore et consequatur.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Tư vấn thiết kế</h3>
+                    <p>Đội ngũ kiến trúc sư giàu kinh nghiệm hỗ trợ khách hàng từ ý tưởng đến bản vẽ chi tiết, đảm bảo
+                        tính thẩm mỹ và công năng.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 
@@ -28,11 +28,10 @@
                     <div class="icon">
                         <i class="fa-solid fa-arrow-up-from-ground-water"></i>
                     </div>
-                    <h3>Eosle Commodi</h3>
-                    <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non
-                        ut
-                        nesciunt dolorem.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Xây dựng công trình dân dụng</h3>
+                    <p>Thi công nhà ở, biệt thự, chung cư với cam kết chất lượng cao và bàn giao đúng tiến độ.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 
@@ -41,11 +40,10 @@
                     <div class="icon">
                         <i class="fa-solid fa-compass-drafting"></i>
                     </div>
-                    <h3>Ledo Markt</h3>
-                    <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas
-                        adipisci
-                        eos earum corrupti.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Xây dựng công trình công nghiệp</h3>
+                    <p>Thiết kế và thi công nhà xưởng, kho bãi, và các công trình hạ tầng phục vụ sản xuất.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 
@@ -54,11 +52,11 @@
                     <div class="icon">
                         <i class="fa-solid fa-trowel-bricks"></i>
                     </div>
-                    <h3>Asperiores Commodit</h3>
-                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit
-                        provident
-                        adipisci neque.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Cải tạo và nâng cấp công trình</h3>
+                    <p>Chúng tôi cung cấp giải pháp cải tạo không gian, đảm bảo sự hài lòng và đáp ứng nhu cầu mới của
+                        khách hàng.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 
@@ -67,11 +65,10 @@
                     <div class="icon">
                         <i class="fa-solid fa-helmet-safety"></i>
                     </div>
-                    <h3>Velit Doloremque</h3>
-                    <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at
-                        autem
-                        alias eius labore.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Quản lý dự án xây dựng</h3>
+                    <p>Tối ưu hóa quy trình và nguồn lực để đảm bảo dự án hoàn thành đúng kế hoạch và ngân sách.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 
@@ -80,10 +77,11 @@
                     <div class="icon">
                         <i class="fa-solid fa-arrow-up-from-ground-water"></i>
                     </div>
-                    <h3>Dolori Architecto</h3>
-                    <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
-                        recusandae ducimus enim.</p>
-                    <a href="#" class="readmore stretched-link">Read more <i class="bi bi-arrow-right"></i></a>
+                    <h3>Giải pháp xanh và bền vững</h3>
+                    <p>Ứng dụng công nghệ hiện đại và vật liệu thân thiện với môi trường để xây dựng các công trình bền
+                        vững.</p>
+                    <a href="#" class="readmore stretched-link">Tìm hiểu thêm <i
+                            class="bi bi-arrow-right"></i></a>
                 </div>
             </div><!-- End Service Item -->
 

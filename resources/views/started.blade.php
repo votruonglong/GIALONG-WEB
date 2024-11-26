@@ -6,7 +6,7 @@
 
             <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
                 <div class="content">
-                    <h3>Minus hic non reiciendis ea possimus at quia.</h3>
+                    <h3>CÔNG TY TNHH TƯ VẤN KIẾN TRÚC XÂY DỰNG GIA LONG.</h3>
                     <p>Rem id rerum. Debitis deserunt quidem delectus expedita ducimus dolor. Aut iusto ipsa. Eos ipsum
                         nobis
                         ipsa soluta itaque perspiciatis fuga ipsum perspiciatis. Eum amet fugiat totam nisi possimus ut
@@ -21,14 +21,13 @@
 
             <div class="col-lg-5" data-aos="zoom-out" data-aos-delay="200">
                 <form action="forms/quote.php" method="post" class="php-email-form">
-                    <h3>Get a quote</h3>
-                    <p>Vel nobis odio laboriosam et hic voluptatem. Inventore vitae totam. Rerum repellendus enim linead
-                        sero
-                        park flows.</p>
+                    <h3>Nhận tư vấn</h3>
+                    <p>CÔNG TY TNHH TƯ VẤN KIẾN TRÚC XÂY DỰNG GIA LONG.</p>
                     <div class="row gy-3">
 
                         <div class="col-12">
-                            <input type="text" name="name" class="form-control" placeholder="Name" required="">
+                            <input type="text" name="name" class="form-control" placeholder="Họ và tên"
+                                required="">
                         </div>
 
                         <div class="col-12 ">
@@ -37,12 +36,12 @@
                         </div>
 
                         <div class="col-12">
-                            <input type="text" class="form-control" name="phone" placeholder="Phone"
+                            <input type="text" class="form-control" name="phone" placeholder="Số điện thoại"
                                 required="">
                         </div>
 
                         <div class="col-12">
-                            <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                            <textarea class="form-control" name="message" rows="6" placeholder="Lời nhắn" required=""></textarea>
                         </div>
 
                         <div class="col-12 text-center">
@@ -50,7 +49,7 @@
                             <div class="error-message"></div>
                             <div class="sent-message">Your quote request has been sent successfully. Thank you!</div>
 
-                            <button type="submit">Get a quote</button>
+                            <button type="submit">Nhận tự vấn</button>
                         </div>
 
                     </div>

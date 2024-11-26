@@ -47,7 +47,7 @@
             <a href="index.html" class="logo d-flex align-items-center">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
                 <!-- <img src="assets/img/logo.png" alt=""> -->
-                <h1 class="sitename">GiaLong</h1> <span>.</span>
+                <h1 class="sitename">GiaLongArc&Construction</h1> <span>.</span>
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -161,7 +161,7 @@
         </div>
 
         <div class="container copyright text-center mt-4">
-            <p>© <span>Copyright</span> <strong class="px-1 sitename">UpConstruction</strong> <span>All Rights
+            <p>© <span>Copyright</span> <strong class="px-1 sitename">GiaLongArc&Construction</strong> <span>All Rights
                     Reserved</span>
             </p>
         </div>
